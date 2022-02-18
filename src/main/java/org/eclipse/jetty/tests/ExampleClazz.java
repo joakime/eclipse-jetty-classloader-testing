@@ -10,6 +10,6 @@ public class ExampleClazz
     @Override
     public String toString()
     {
-        return ExampleClazz.class.getName() + "[3.x]";
+        return ExampleClazz.class.getName() + "[" + ExampleVersion.VER + "]";
     }
 }
