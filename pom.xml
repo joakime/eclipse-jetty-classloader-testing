@@ -5,7 +5,7 @@
 
   <groupId>org.eclipse.jetty.tests</groupId>
   <artifactId>classloader-testing</artifactId>
-  <version>2.2-SNAPSHOT</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <url>http://www.eclipse.org/jetty/</url>
@@ -173,6 +173,16 @@
       </plugins>
     </pluginManagement>
   </build>
+  <developers>
+    <developer>
+      <id>joakime</id>
+      <name>Joakim Erdfelt</name>
+      <email>joakim.erdfelt@gmail.com</email>
+      <organization>Webtide, LLC</organization>
+      <organizationUrl>http://www.webtide.com</organizationUrl>
+      <timezone>-7</timezone>
+    </developer>
+  </developers>
   <profiles>
     <profile>
       <id>release-sign-artifact</id>
