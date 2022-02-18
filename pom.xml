@@ -5,7 +5,7 @@
 
   <groupId>org.eclipse.jetty.tests</groupId>
   <artifactId>classloader-testing</artifactId>
-  <version>2.1-SNAPSHOT</version>
+  <version>2.1</version>
   <packaging>jar</packaging>
 
   <url>http://www.eclipse.org/jetty/</url>
@@ -205,7 +205,7 @@
     <connection>scm:git:https://github.com/joakime/eclipse-jetty-classloader-testing.git</connection>
     <developerConnection>scm:git:git@github.com:joakime/eclipse-jetty-classloader-testing.git</developerConnection>
     <url>https://github.com/joakime/eclipse-jetty-classloader-testing</url>
-    <tag>HEAD</tag>
+    <tag>classloader-testing-2.1</tag>
   </scm>
   <distributionManagement>
     <repository>
