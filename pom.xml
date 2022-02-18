@@ -5,7 +5,7 @@
 
   <groupId>org.eclipse.jetty.tests</groupId>
   <artifactId>classloader-testing</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <url>http://www.eclipse.org/jetty/</url>
@@ -207,4 +207,16 @@
     <url>https://github.com/joakime/eclipse-jetty-classloader-testing</url>
     <tag>HEAD</tag>
   </scm>
+  <distributionManagement>
+    <repository>
+      <id>oss.sonatype.org</id>
+      <name>Jetty Staging Repository</name>
+      <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+    </repository>
+    <snapshotRepository>
+      <id>oss.sonatype.org</id>
+      <name>Jetty Snapshot Repository</name>
+      <url>https://oss.sonatype.org/content/repositories/jetty-snapshots/</url>
+    </snapshotRepository>
+  </distributionManagement>
 </project>
