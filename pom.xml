@@ -5,7 +5,7 @@
 
   <groupId>org.eclipse.jetty.tests</groupId>
   <artifactId>classloader-testing</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>2.0-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>Eclipse Jetty Classloader Testing Jar</name>
   <description>Jars used for Classloader Testing in Eclipse Jetty</description>
