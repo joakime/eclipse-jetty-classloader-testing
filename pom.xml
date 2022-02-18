@@ -36,7 +36,7 @@
           <include>*.java</include>
         </includes>
         <filtering>true</filtering>
-        <targetPath>${project.build.directory}/generated-sources/java/org/eclipse/jetty/tests</targetPath>
+        <targetPath>src/main/java</targetPath>
       </resource>
     </resources>
     <plugins>
@@ -52,7 +52,7 @@
           </archive>
         </configuration>
       </plugin>
-      <plugin>
+      <!--<plugin>
         <groupId>org.codehaus.mojo</groupId>
         <artifactId>build-helper-maven-plugin</artifactId>
         <version>3.3.0</version>
@@ -70,7 +70,7 @@
             </configuration>
           </execution>
         </executions>
-      </plugin>
+      </plugin>-->
     </plugins>
     <pluginManagement>
       <plugins>
