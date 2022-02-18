@@ -202,8 +202,8 @@
     </profile>
   </profiles>
   <scm>
-    <connection>scm:git:https://github.com/jetty-project/eclipse-jetty-classloader-testing.git</connection>
-    <developerConnection>scm:git:git@github.com:jetty-project/eclipse-jetty-classloader-testing.git</developerConnection>
-    <url>https://github.com/jetty-project/eclipse-jetty-classloader-testing</url>
+    <connection>scm:git:https://github.com/joakime/eclipse-jetty-classloader-testing.git</connection>
+    <developerConnection>scm:git:git@github.com:joakime/eclipse-jetty-classloader-testing.git</developerConnection>
+    <url>https://github.com/joakime/eclipse-jetty-classloader-testing</url>
   </scm>
 </project>
