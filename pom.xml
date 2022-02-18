@@ -5,7 +5,7 @@
 
   <groupId>org.eclipse.jetty.tests</groupId>
   <artifactId>classloader-testing</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>2.2-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <url>http://www.eclipse.org/jetty/</url>
