@@ -5,8 +5,10 @@
 
   <groupId>org.eclipse.jetty.tests</groupId>
   <artifactId>classloader-testing</artifactId>
-  <version>2.3-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
+  <name>Eclipse Jetty Classloader Testing Jar</name>
+  <description>Jars used for Classloader Testing in Eclipse Jetty</description>
 
   <url>http://www.eclipse.org/jetty/</url>
   <inceptionYear>1995</inceptionYear>
